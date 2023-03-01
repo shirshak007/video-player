@@ -1,0 +1,24 @@
+
+2023-02-24 08:37:42: ["Uploads\/Keywords\/autumn.txt","Uploads\/Keywords\/good bye.txt","Uploads\/Keywords\/good morning.txt","Uploads\/Keywords\/hello.txt","Uploads\/Keywords\/how are you.txt","Uploads\/Keywords\/namaste.txt","Uploads\/Keywords\/one.txt","Uploads\/Keywords\/time.txt","Uploads\/Keywords\/what is your name.txt","Uploads\/Keywords\/where are you from.txt","Uploads\/Keywords\/yes.txt"]
+2023-02-24 08:37:44: ["Uploads\/Keywords\/autumn.txt","Uploads\/Keywords\/how are you.txt","Uploads\/Keywords\/namaste.txt","Uploads\/Keywords\/what is your name.txt","Uploads\/Keywords\/where are you from.txt"]
+2023-02-24 08:37:45: ["Uploads\/Keywords\/autumn.txt"]
+2023-02-24 08:37:49: ["Uploads\/Keywords\/autumn.txt","Uploads\/Keywords\/good bye.txt","Uploads\/Keywords\/good morning.txt","Uploads\/Keywords\/hello.txt","Uploads\/Keywords\/how are you.txt","Uploads\/Keywords\/namaste.txt","Uploads\/Keywords\/one.txt","Uploads\/Keywords\/time.txt","Uploads\/Keywords\/what is your name.txt","Uploads\/Keywords\/where are you from.txt","Uploads\/Keywords\/yes.txt"]
+2023-02-24 08:48:43: ["Uploads\/Keywords\/autumn.txt","Uploads\/Keywords\/good bye.txt","Uploads\/Keywords\/good morning.txt","Uploads\/Keywords\/hello.txt","Uploads\/Keywords\/how are you.txt","Uploads\/Keywords\/namaste.txt","Uploads\/Keywords\/one.txt","Uploads\/Keywords\/time.txt","Uploads\/Keywords\/what is your name.txt","Uploads\/Keywords\/where are you from.txt","Uploads\/Keywords\/yes.txt"]
+2023-02-24 08:52:22: null
+2023-02-24 08:56:56: ["Uploads\/Keywords\/autumn.txt","Uploads\/Keywords\/good bye.txt","Uploads\/Keywords\/good morning.txt","Uploads\/Keywords\/hello.txt","Uploads\/Keywords\/how are you.txt","Uploads\/Keywords\/namaste.txt","Uploads\/Keywords\/one.txt","Uploads\/Keywords\/time.txt","Uploads\/Keywords\/what is your name.txt","Uploads\/Keywords\/where are you from.txt","Uploads\/Keywords\/yes.txt"]
+2023-02-24 09:03:32: null
+2023-02-24 09:03:58: null
+2023-02-24 11:33:37: null
+2023-02-24 11:44:21: null
+2023-02-24 12:00:50: null
+2023-02-24 12:08:43: getAllKeywords function
+2023-02-24 12:08:43: null
+2023-02-24 13:13:02: null
+2023-02-24 13:21:48: {"status":true,"message":"Found matches.","count":5,"keyword":["","","","",""],"desc":[null,null,null,null,null],"video":["No video found.","No video found.","No video found.","No video found.","No video found."]}
+2023-02-24 13:23:12: Array
+2023-02-24 13:23:59: ["Support:Encourage\/give help - to help or encourage sb\/sth by saying or showing that you agree with them\/it\r","Research:A careful study of a subject, especially in order to discover new facts or information about it\r","Experience:The knowledge and skill that  you have gained through doing sth for a period of time\r","Interpreter:A person whose job is to translate what sb is saying into another language\r","Language:The system of communication in speech and writing that is used by people of a particular country or area"]
+2023-02-24 13:24:16: ["S"]
+2023-02-24 13:24:45: ["S"]
+2023-02-24 13:25:33: ["S"]
+2023-02-24 13:26:02: ["Support:Encourage\/give help - to help or encourage sb\/sth by saying or showing that you agree with them\/it\r","Research:A careful study of a subject, especially in order to discover new facts or information about it\r","Experience:The knowledge and skill that  you have gained through doing sth for a period of time\r","Interpreter:A person whose job is to translate what sb is saying into another language\r","Language:The system of communication in speech and writing that is used by people of a particular country or area"]
+2023-02-24 13:26:22: Research:A careful study of a subject, especially in order to discover new facts or information about it
